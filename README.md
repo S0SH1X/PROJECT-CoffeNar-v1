@@ -30,7 +30,7 @@ Built using **HTML**, **CSS**, **JavaScript**, **jQuery**, and **Bootstrap 5 (RT
 
 ## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
+1- Run index.html 
+
+
   
