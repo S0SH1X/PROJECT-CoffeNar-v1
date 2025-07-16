@@ -1,0 +1,2 @@
+# PROJECT-CoffeNar-v1
+A simple front-end project including a landing page, user registration, and login forms.   Built with HTML, CSS, JavaScript, jQuery, and Bootstrap 5 (RTL) to support Persian language layout.   Features a clean UI with Persian datepicker integration and basic form functionality.   This project focuses on front-end development without backend integration and is an early learning project.  
