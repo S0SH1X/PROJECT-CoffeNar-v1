@@ -1,0 +1,92 @@
+@media (max-width: 413px) {
+  .login-section .row {
+    width: 100% !important;
+    margin: 0 auto;
+    border-radius: 0 !important;
+  }
+
+  .login-box {
+    padding: 20px 10px;
+  }
+
+  .login-box h2 {
+    font-size: 1.2rem;
+  }
+
+  .form-label {
+    font-size: 0.85rem;
+  }
+
+  .form-control {
+    font-size: 0.85rem;
+    padding: 6px 10px;
+  }
+
+  .btn {
+    padding: 8px;
+    font-size: 0.9rem;
+  }
+
+  .img-logo {
+    width: 35px;
+  }
+
+  .navbar-brand span {
+    font-size: 0.9rem;
+  }
+
+  .div-gender {
+    margin-top: 10px;
+    font-size: 0.85rem;
+  }
+
+  .form-check-label {
+    font-size: 0.85rem;
+  }
+
+  p, label {
+    font-size: 0.85rem;
+  }
+
+  .banner {
+    display: none !important;
+  }
+}
+@media (min-width: 414px) and (max-width: 570px) {
+  .login-section .row {
+    width: 90% !important;
+    margin: 0 auto;
+    border-radius: 1rem;
+  }
+
+  .login-box {
+    padding: 30px 20px;
+  }
+
+  .login-box h2 {
+    font-size: 1.5rem;
+  }
+
+  .form-label,
+  .form-check-label {
+    font-size: 1rem;
+  }
+
+  .form-control {
+    font-size: 1rem;
+    padding: 10px 12px;
+  }
+
+  .btn {
+    padding: 10px;
+    font-size: 1rem;
+  }
+
+  .img-logo {
+    width: 45px;
+  }
+
+  .banner {
+    display: none !important;
+  }
+}

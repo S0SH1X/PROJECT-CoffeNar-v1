@@ -1,0 +1,32 @@
+@media (max-width: 450px) {
+  .login-section .row {
+    width: 95% !important;
+    margin: 0 auto;
+  }
+
+  .login-box {
+    padding: 30px 20px;
+  }
+
+  .login-box h2 {
+    font-size: 1.3rem;
+  }
+
+  .form-label {
+    font-size: 0.9rem;
+  }
+
+  .form-control {
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 450px) {
+  .img-logo {
+    width: 40px;
+  }
+}
+@media (max-width: 450px) {
+  body {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,46 @@
+body::before{   
+    display: block;
+    content: '';
+    height: 60px;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+.bg-danger-light{
+
+    background-color:#e74c3c ;
+}
+.btn-danger-light{
+
+    background-color:#e74c3c !important ;
+}
+.text-danger-light{
+
+    color:#e74c3c !important ;
+}
+@font-face {
+    font-family: farsi;
+    src: url(../Font/iran.ttf);
+}
+@font-face {
+    font-family: en;
+    src: url(../Font/eng.otf);
+}
+*{
+    font-family: farsi;
+}
+.bg-dark-light{
+
+    background-color:#eaeaec !important;
+}
+.navbar .nav-link.btn-outline-dark:hover {
+  color: #fff !important;
+  background-color: #6c757d; /* خاکستری روشن‌تر */
+  border-color: #6c757d;
+}
+#male:checked{
+    accent-color: red;
+}
+.owl-carousel .item {
+  padding: 15px;
+}
